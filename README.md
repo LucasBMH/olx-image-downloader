@@ -33,7 +33,8 @@ automaticamente em uma pasta no computador do usuário.
 
 ## 🚀 Como executar
 
-...
+apenas rode o arquivo.py com o python instalado (nescessário pip install selenium e requests)
+É possivel converter para um .exe para uso no windows sem a nescessidade de ter o python instalado
 
 ## 📁 Estrutura simples
 
@@ -44,5 +45,3 @@ automaticamente em uma pasta no computador do usuário.
 Este projeto foi desenvolvido para fins de automação de uma tarefa
 operacional e deve ser utilizado respeitando os termos de uso e as
 políticas aplicáveis ao site acessado.
-
-É possivel converter para um .exe para uso no windows sem a nescessidade de ter o python instalado
